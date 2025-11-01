@@ -16,9 +16,6 @@ pomodoro-focus/
 │── script.js
 │── beep.mp3 (alarm sound)
 
-markdown
-Copy code
-
 ## 🚀 How to Use
 1. Download or clone the repository  
 2. Open **index.html** in your browser  
