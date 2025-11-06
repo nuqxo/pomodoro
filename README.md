@@ -1,3 +1,5 @@
+<img width="1588" height="1074" alt="image" src="https://github.com/user-attachments/assets/2a126eba-2a1d-4c04-9b1a-bdbd921aadae" />
+
 # ⏳ Pomodoro Focus  
 A minimal and clean Pomodoro timer designed for deep work and productivity.
 
